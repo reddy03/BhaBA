@@ -51,6 +51,8 @@ To overcome these above drawbacks Micro-services concept came in to picture.
 Let?s see how it resolve our issue,
 As I already mention sort definition of micro services so we know every module we are developing, packaging and deploying individually containers so even though all depends on each other one service failing is not impact to other service where user will not suffer
 
+Micro services architecture diagram:
+
 
 See as per diagram, each service are interlink with each other but all modules are separate here means independent war.
 All above mentioned 6 services have their own development and own package and deployed we can say each service is one one micro services.
